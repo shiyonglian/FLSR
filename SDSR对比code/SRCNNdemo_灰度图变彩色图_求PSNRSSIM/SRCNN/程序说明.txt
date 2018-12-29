@@ -1,0 +1,6 @@
+ssim_index_vdsr:求SSIM值的子函数
+compute_psnr:求PSNR值的子函数
+
+demo_SR：得到SRCNN和Bicubic放大后的彩色图，以及求PSNR,SSIM
+justcolor2：给灰度图上色变彩色图，并求PSNR,SSIM
+
