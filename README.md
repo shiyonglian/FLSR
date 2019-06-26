@@ -1,5 +1,5 @@
 # FLSR
-MATLAB是做FLSR实验的所有matlab代码；
+##MATLAB是做FLSR实验的所有matlab代码；
 1）MATLAB中包含两个文件MATLAB1中有
 drawpsnr+.m是使用自相似性的测试方法代码，
 enlargedata.m是数据增强代码，增强40倍，4（旋转）*2（镜像和原图）*5（1 0.9 0.8 0.7 0.6）；
